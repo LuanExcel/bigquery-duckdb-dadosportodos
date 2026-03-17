@@ -1,0 +1,35 @@
+🚀 Projeto de Dados – Arquitetura de Engenharia de Dados na Prática
+
+Recentemente desenvolvi uma arquitetura completa de engenharia de dados com foco em organização, escalabilidade e boas práticas utilizadas no mercado.
+
+O objetivo foi estruturar um pipeline moderno, desde a ingestão de dados até a visualização em dashboards, utilizando ferramentas robustas e amplamente adotadas.
+
+🔧 Estrutura da arquitetura:
+
+• Ingestão de dados via scripts Python, enviando arquivos CSV para o Google Cloud Storage
+• Processamento ETL com DuckDB, realizando transformações diretamente nos dados armazenados na nuvem
+• Integração segura com o BigQuery utilizando Service Account
+• Armazenamento e modelagem no BigQuery com tabelas e views
+• Consumo dos dados no Power BI para criação de dashboards interativos e análises visuais
+
+💡 Diferenciais do projeto:
+
+• Arquitetura simples, porém escalável e eficiente
+• Uso do DuckDB como engine leve para processamento analítico
+• Separação clara das camadas: ingestão, transformação e consumo
+• Integração com ferramentas cloud e BI utilizadas no mercado
+• Boas práticas com ambiente virtual e gerenciamento de dependências
+
+📊 O projeto reforça conceitos importantes como:
+
+• Construção de pipelines de dados
+• Modelagem em data warehouse
+• Processos ETL modernos
+• Integração entre ferramentas (Python + GCP + BI)
+• Organização de projetos de dados para produção
+
+Esse tipo de arquitetura mostra como é possível construir soluções eficientes mesmo com ferramentas leves, mantendo um padrão profissional e pronto para escalar.
+
+Seguimos evoluindo e construindo soluções cada vez mais robustas na área de dados. 📊🚀
+
+#dados #engenhariadedados #dataengineering #bigquery #duckdb #python #powerbi #cloud #etl #analytics

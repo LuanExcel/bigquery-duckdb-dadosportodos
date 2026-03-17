@@ -1,0 +1,34 @@
+# Ambiente
+venv/
+.env
+main.py
+
+# Credenciais
+*.json
+
+src/
+
+# Dados / backup
+backup/
+*.parquet
+*.csv
+*.xlsx
+*.xlsb
+*.png
+
+service/
+
+# BI / arquivos grandes
+*.pbix
+
+# Documentos
+*.pdf
+
+# Imagens
+*.png
+*.jpg
+img/
+
+# Logs / temporários
+*.log
+__pycache__/
