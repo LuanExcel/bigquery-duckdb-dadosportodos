@@ -1,6 +1,7 @@
 # Ambiente
 venv/
 .env
+README_LUAN.md
 
 # Credenciais
 *.json
