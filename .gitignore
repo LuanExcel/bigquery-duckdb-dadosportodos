@@ -1,7 +1,6 @@
 # Ambiente
 venv/
 .env
-main.py
 
 # Credenciais
 *.json
